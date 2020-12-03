@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "defaults",
+        "availableCommands",
+        "shapes",
+        "filled",
+        "circled"
+    ]
+}

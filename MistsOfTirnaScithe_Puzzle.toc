@@ -1,0 +1,11 @@
+## Interface: 90002
+## Title: |cff00ccffMists of Tirna Scithe|r Puzzle Solver
+## Notes: F this puzzle
+## Author: Dispersia
+## Version: 0.1
+## DefaultState: enabled
+
+config.lua
+main.lua
+slashCommands.lua
+init.lua
