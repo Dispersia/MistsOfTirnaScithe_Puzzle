@@ -4,3 +4,4 @@ events:SetScript("OnEvent", function()
     MistsOfTirnaScithe_Puzzle_Addon.InitSlashCommands();
     MistsOfTirnaScithe_Puzzle_Addon:Toggle(false);
 end);
+events:UnregisterEvent("ADDON_LOADED");
