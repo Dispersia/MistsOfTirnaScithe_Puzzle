@@ -68,6 +68,8 @@ function MistsOfTirnaScithe_Puzzle_Addon:CreateWindow()
         window.values[i] = MistsOfTirnaScithe_Puzzle_Addon:CreateButton("TOPLEFT", window, "TOPLEFT", xOffset, yOffset,
                                o);
     end
+
+    return window;
 end
 
 function MistsOfTirnaScithe_Puzzle_Addon:ProcessAction(button, action)
